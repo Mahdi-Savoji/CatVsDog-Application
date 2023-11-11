@@ -1,6 +1,6 @@
 # Cat and Dog Detection Application
 
-![Cat Vs Dog Application](Test/Animation.gif)
+<img src="Test/Animation.gif" alt="Cat Vs Dog Application" width="400" height="500">
 
 This is a Tkinter application that uses trained deep learning models to detect whether an image contains a cat or a dog. The user can open an image file, preprocess the image, and make predictions based on the selected model (InceptionV3 or MobileNetV2).
 
